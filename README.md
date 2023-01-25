@@ -1,2 +1,2 @@
 # Intro to Git
-This is an example project
+This is an example projec
